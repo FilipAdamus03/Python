@@ -1,3 +1,5 @@
+'''Filip Adamus'''
+
 from random import randint
 from time import time
 
@@ -34,7 +36,7 @@ print(A)
 if A == D : print ("Czas obliczen:",time()-t0)
 
 print("")
-print("Sortowanie b¹belkowe:")
+print("Sortowanie bÂ¹belkowe:")
 print("")
 print(B)
 
