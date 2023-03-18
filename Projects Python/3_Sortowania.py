@@ -36,7 +36,7 @@ print(A)
 if A == D : print ("Czas obliczen:",time()-t0)
 
 print("")
-print("Sortowanie b¹belkowe:")
+print("Sortowanie bąbelkowe:")
 print("")
 print(B)
 
