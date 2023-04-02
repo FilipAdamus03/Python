@@ -1,4 +1,4 @@
-'''Splatanie/Merge'''
+'''Splatanie / Merge'''
 
 import random
 from bisect import bisect_left, insort_left
